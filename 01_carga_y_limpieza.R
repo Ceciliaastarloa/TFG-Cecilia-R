@@ -116,7 +116,7 @@ View(datos_final)
 
 # Verificar cuántos casos efectivos quedan
 nrow(datos_final)
-
+# Quedan 170 respuestas válidas
 
 # ============================================================
 # LIMPIEZA DE INCONSISTENCIAS EN CATEGÓRICAS
