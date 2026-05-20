@@ -1,6 +1,6 @@
 # ============================================================
 # TFG — Motivaciones y criterios de elección de destino
-# Script 06: Clúster ALTERNATIVO sobre las 10 variables pull
+# Script 03: Análisis de componentes principales y validación
 # Autora: Cecilia Astarloa
 # ============================================================
 
